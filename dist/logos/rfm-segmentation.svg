@@ -1,0 +1,10 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer Recency Ring -->
+  <circle cx="32" cy="32" r="26" stroke="#0284C7" stroke-width="3" stroke-dasharray="5 3"/>
+  <!-- Middle Frequency Ring -->
+  <circle cx="32" cy="32" r="18" stroke="#7C3AED" stroke-width="3"/>
+  <!-- Inner Monetary Ring -->
+  <circle cx="32" cy="32" r="10" stroke="#E11D48" stroke-width="3"/>
+  <!-- Champion Customer Core -->
+  <circle cx="32" cy="32" r="4.5" fill="#F59E0B"/>
+</svg>

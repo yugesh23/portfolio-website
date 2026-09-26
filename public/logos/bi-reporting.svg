@@ -1,0 +1,20 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="biGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+  </defs>
+  <!-- Modern Monitor Frame -->
+  <rect x="6" y="8" width="52" height="40" rx="8" stroke="url(#biGrad)" stroke-width="3" fill="#F0FDF4"/>
+  <!-- Base Stand -->
+  <path d="M26 48h12v6H26zM20 54h24v3H20z" fill="#0284C7" rx="1.5"/>
+  <!-- Internal Analytics Columns -->
+  <rect x="14" y="30" width="6" height="12" rx="2" fill="#059669" fill-opacity="0.7"/>
+  <rect x="24" y="24" width="6" height="18" rx="2" fill="#059669" fill-opacity="0.85"/>
+  <rect x="34" y="18" width="6" height="24" rx="2" fill="#0284C7" fill-opacity="0.85"/>
+  <rect x="44" y="14" width="6" height="28" rx="2" fill="#0284C7"/>
+  <!-- Growth Trajectory Line -->
+  <path d="M14 26l10-4 10 4 16-12" stroke="#F59E0B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="50" cy="14" r="3" fill="#F59E0B"/>
+</svg>

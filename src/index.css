@@ -1,0 +1,107 @@
+@import "@fontsource/space-grotesk/400.css";
+@import "@fontsource/space-grotesk/500.css";
+@import "@fontsource/space-grotesk/600.css";
+@import "@fontsource/space-grotesk/700.css";
+
+@import "@fontsource/inter/300.css";
+@import "@fontsource/inter/400.css";
+@import "@fontsource/inter/500.css";
+@import "@fontsource/inter/600.css";
+@import "@fontsource/inter/700.css";
+
+@import "@fontsource/jetbrains-mono/400.css";
+@import "@fontsource/jetbrains-mono/500.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html, body {
+  background-color: #0B1220;
+  color: #F8FAFC;
+  font-family: 'Inter', sans-serif;
+  overflow-x: clip;
+  max-width: 100vw;
+  cursor: auto;
+}
+
+/* Custom Scrollbar - Deep Navy & Sky Blue Accent */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #0B1220;
+}
+::-webkit-scrollbar-thumb {
+  background: #263449;
+  border-radius: 9999px;
+  border: 1px solid rgba(56, 189, 248, 0.15);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #38BDF8;
+  box-shadow: 0 0 10px #38BDF8;
+}
+
+/* Disciplined Navy Glass Surfaces */
+.glass-panel {
+  background: #151F30;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid #263449;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
+}
+
+.glass-card-dark {
+  background: #151F30;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid #263449;
+  box-shadow: 0 4px 24px -2px rgba(0, 0, 0, 0.4);
+}
+
+.glass-panel-hover {
+  transition: all 0.2s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.glass-panel-hover:hover {
+  transform: translateY(-4px);
+  border-color: #38BDF8;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.5), 0 0 20px rgba(56, 189, 248, 0.15);
+}
+
+.glass-pill {
+  background: #151F30;
+  backdrop-filter: blur(10px);
+  border: 1px solid #263449;
+}
+
+/* Minimal Soft Atmospheric Radial Background (No Clutter) */
+.bg-cyber-radial {
+  background: radial-gradient(circle at 50% 0%, rgba(56, 189, 248, 0.08) 0%, rgba(167, 139, 250, 0.05) 45%, rgba(11, 18, 32, 0) 70%);
+}
+
+/* Custom Cursor Rules */
+@media (min-width: 1024px) {
+  body.has-custom-cursor,
+  body.has-custom-cursor a,
+  body.has-custom-cursor button,
+  body.has-custom-cursor [role="button"] {
+    cursor: none !important;
+  }
+}
+
+/* Code block scrollbars */
+pre::-webkit-scrollbar {
+  height: 5px;
+}
+pre::-webkit-scrollbar-thumb {
+  background: #263449;
+  border-radius: 4px;
+}
+pre::-webkit-scrollbar-thumb:hover {
+  background: #38BDF8;
+}

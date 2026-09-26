@@ -1,0 +1,54 @@
+--- PAGE 1 ---
+Hari Sai Yugesh
+Aspiring Data & Business Analyst
++91-7396352627 — saiyugesh60@gmail.com
+23KN1A1239 — Nri Institute of Technology, Agiripalli
+Experience
+Data Analyst Intern, Infyntrek Aug 2026 – Present (Remote)
+ Performed data analysis using Excel, SQL, and Python on datasets of 5,000+ records to identify trends and
+generate data-driven business insights.
+ Built 2 automated dashboards and reporting workflows using Power BI and pivot tables, reducing manual
+reporting time by approximately 15%.
+ Cleaned and processed large datasets to improve data accuracy, reliability, and business intelligence reporting
+quality for stakeholder decision-making.
+Education
+Nri Institute of T echnology 2023–2027
+B.Tech in Information Technology
+Sr Junior College 2021–2023
+Intermediate, Andhra Pradesh Percentage: 79.1
+KC High School 2020–2021
+SSC, Andhra Pradesh GPA: 10.0
+Projects
+Vyaptiq IQ – Data-Driven Retail Intelligence Platform 2026
+ Built a web-based retail intelligence platform that processes transactional datasets to compute KPIs (revenue,
+margin %, ARPU, promo rate) and detect anomalies using Z-score statistical analysis.
+ Designed a rule-based recommendation engine mapping analytical insights to prioritized business actions (pric-
+ing, promotions, marketing allocation), enabling data-driven revenue optimization; built end-to-end using React,
+Supabase (PostgreSQL), and Recharts.
+Customer Retention & Cohort Analytics Dashboard 2026
+ Built an interactive dashboard analyzing 1,400+ customers to track repeat purchase rate (79.3%), average order
+value (Rs. 863), net delivered revenue, and average customer LTV across acquisition channels.
+ Performed RFM segmentation and monthly cohort retention analysis (M0–M5) to classify customers into Cham-
+pions, Loyal Regulars, At-Risk, and Churned segments, identifying a 17-day mean repeat-purchase window.
+ Delivered 3 data-driven business recommendations (referral budget reallocation, automated CRM re-engagement,
+cross-sell strategy) to improve retention and lift average order value.
+T echnical Skills
+Languages: Python, C.
+F rameworks:React.js, Bootstrap.
+W eb T echnologies:HTML5, CSS3, REST APIs, Responsive Web Design.
+Databases: MySQL.
+T ools: Git, GitHub, VS Code, Eclipse.
+AI/ML Exposure: Applied AI features (ATS scoring, resume analysis) in academic project work; Python (Pan-
+das, NumPy, Matplotlib).
+Data Analytics: Excel (Pivot Tables, VLOOKUP), SQL, Power BI, Data Visualization, Business Intelligence
+(BI) Reporting.
+Business Analytics: KPI Tracking, Stakeholder Reporting, Forecasting, Data-Driven Decision Making, Require-
+ment Gathering.
+Soft Skills: Problem Solving, Analytical Thinking, Team Collaboration, Adaptability
+Areas of Interest
+Data Analytics, Business Analytics.
+Achievements
+ 1st Prize – Paper Presentation, MVR College of Engineering (2025)
+ 1st Prize – Logo Design, Chalapathi Institute of Engineering & Technology (2025)
+ 2nd Prize – Paper Presentation, PB Siddhartha College (2025)
+ Published a Research Paper in a Taylor & Francis Indexed Journal (2025)

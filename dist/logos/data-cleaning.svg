@@ -1,0 +1,17 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="etlGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D9488"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+  <!-- ETL Funnel Shape -->
+  <path d="M8 12h48l-18 20v18l-12-6V32L8 12z" fill="#CCFBF1" stroke="url(#etlGrad)" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Incoming Unstructured Data Droplets -->
+  <circle cx="24" cy="18" r="2.5" fill="#0D9488"/>
+  <circle cx="32" cy="22" r="3" fill="#0D9488"/>
+  <circle cx="40" cy="18" r="2.5" fill="#0D9488"/>
+  <!-- Pure Clean Data Checkmark -->
+  <circle cx="42" cy="44" r="12" fill="#10B981"/>
+  <path d="M37 44l3.5 3.5 7.5-7.5" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
