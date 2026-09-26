@@ -169,5 +169,7 @@ npm run preview
 - `src/data/profile.ts` ➔ `social.github` (currently `https://github.com/yugesh-placeholder`)
 - `src/data/projects.ts` ➔ `githubUrl` & `liveDemoUrl` placeholders for Vyaptiq IQ and Retention Analytics
 - `.env` ➔ `VITE_FORMSPREE_ENDPOINT` (form defaults to mailto fallback if untouched)
-#   p o r t f o l i o - w e b s i t e  
+#   p o r t f o l i o - w e b s i t e 
+
+ 
  
