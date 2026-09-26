@@ -1,9 +1,7 @@
 # Portfolio Website
 
 ## Live Demo
-https://your-portfolio.netlify.app  
-*(update after deployment)*
-
+https://yugesh23-portfolio.vercel.app/
 ---
 
 ## Overview
